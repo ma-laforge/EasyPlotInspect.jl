@@ -1,5 +1,9 @@
 # EasyPlotInspect.jl
 
+# Deprecation Warning
+
+EasyPlotInspect.jl is now deprecated. Please use [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl) instead.
+
 ## Description
 
 EasyPlotInspect.jl implements `EasyPlot.EasyPlotDisplay` using InspectDR.jl.
